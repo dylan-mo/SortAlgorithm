@@ -1,7 +1,7 @@
-const quickSort = require('./quick_sort');
-const bubbleSort = require('./bubble_sort');
-const selectionSort = require('./selection_sort');
-const insertionSort = require('./insertion_sort');
+const quickSort = require('./sort/quick_sort');
+const bubbleSort = require('./sort/bubble_sort');
+const selectionSort = require('./sort/selection_sort');
+const insertionSort = require('./sort/insertion_sort');
 
 
 function init() {
